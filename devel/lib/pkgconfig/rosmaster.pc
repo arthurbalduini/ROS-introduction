@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: rosmaster
+Description: Description of rosmaster
+Version: 1.15.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

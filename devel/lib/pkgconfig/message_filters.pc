@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: message_filters
+Description: Description of message_filters
+Version: 1.15.4
+Cflags: -I/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/message_filters/include
+Libs: -L${prefix}/lib -lmessage_filters
+Requires: roscpp rosconsole

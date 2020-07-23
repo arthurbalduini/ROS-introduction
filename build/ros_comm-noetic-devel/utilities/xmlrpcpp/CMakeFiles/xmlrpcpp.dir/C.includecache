@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/xmlrpcpp/libb64/include/b64/cdecode.h
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/xmlrpcpp/libb64/include/b64/cencode.h
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/xmlrpcpp/libb64/src/cdecode.c
+b64/cdecode.h
+-
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/xmlrpcpp/libb64/src/cencode.c
+b64/cencode.h
+-
+

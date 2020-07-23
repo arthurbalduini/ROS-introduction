@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/message_filters/include/message_filters/connection.h
+boost/function.hpp
+-
+boost/signals2/connection.hpp
+-
+macros.h
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/message_filters/include/message_filters/macros.h
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/message_filters/include/message_filters/macros.h
+ros/macros.h
+-
+
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/message_filters/src/connection.cpp
+message_filters/connection.h
+/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/message_filters/src/message_filters/connection.h
+
+/opt/ros/melodic/include/ros/macros.h
+

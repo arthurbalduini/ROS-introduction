@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.15.4
+Cflags: -I/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/utilities/xmlrpcpp/include
+Libs: -L${prefix}/lib -lxmlrpcpp
+Requires: cpp_common rostime

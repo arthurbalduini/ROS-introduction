@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: rostest
+Description: Description of rostest
+Version: 1.15.4
+Cflags: -I/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/tools/rostest/include -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: 

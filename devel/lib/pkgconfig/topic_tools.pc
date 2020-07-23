@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: topic_tools
+Description: Description of topic_tools
+Version: 1.15.4
+Cflags: -I/home/arthur-eu-acho/catkin_ws/devel/include -I/home/arthur-eu-acho/catkin_ws/src/ros_comm-noetic-devel/tools/topic_tools/include
+Libs: -L${prefix}/lib -ltopic_tools
+Requires: message_runtime rosconsole roscpp std_msgs xmlrpcpp

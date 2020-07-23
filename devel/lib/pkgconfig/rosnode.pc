@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: rosnode
+Description: Description of rosnode
+Version: 1.15.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/arthur-eu-acho/catkin_ws/devel
+
+Name: test_rostopic
+Description: Description of test_rostopic
+Version: 1.15.4
+Cflags: -I/home/arthur-eu-acho/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
