@@ -17,7 +17,7 @@ Define environment variables (if not done yet):
 ```
 Create executable files for publisher and subscriber:
 ```
-~/ROS-introduction/src/test$ chmod +x publisher.py2
+~/ROS-introduction/src/test$ chmod +x publisher.py
 ~/ROS-introduction/src/test$ chmod +x subscriber.py
 ```
 Execute the files:
