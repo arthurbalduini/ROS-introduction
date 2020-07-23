@@ -17,13 +17,13 @@ Define environment variables (if not done yet):
 ```
 Create .exe files for publisher and subscriber:
 ```
-~/meu -projeto/src/test$ chmod +x publisher.py2
-~/meu -projeto/src/test$ chmod +x subscriber.py
+~/ROS-introduction/src/test$ chmod +x publisher.py2
+~/ROS-introduction/src/test$ chmod +x subscriber.py
 ```
 Execute the files:
 ```
-~/meu -projeto/src/test$ rosrun  test  publisher.py
-~/meu -projeto/src/test$ rosrun  test  subscriber.py
+~/ROS-introduction/src/test$ rosrun  test  publisher.py
+~/ROS-introduction/src/test$ rosrun  test  subscriber.py
 ```
 
 You should be able to see the publisher loging "Hello World" and the subscriber loging "heard Hello World".
