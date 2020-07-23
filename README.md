@@ -8,7 +8,7 @@ It implements a small proof of concept to introduce some concepts of the Robotic
 
 Initialize ROS: 
 ```
-~\$ roscore
+~$ roscore
 ```
 Define environment variables (if not done yet):
 
