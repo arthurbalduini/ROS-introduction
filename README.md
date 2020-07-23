@@ -15,7 +15,7 @@ Define environment variables (if not done yet):
 ```
 ~/ROS-introduction$ source  devel/setup.bash
 ```
-Create .exe files for publisher and subscriber:
+Create executable files for publisher and subscriber:
 ```
 ~/ROS-introduction/src/test$ chmod +x publisher.py2
 ~/ROS-introduction/src/test$ chmod +x subscriber.py
