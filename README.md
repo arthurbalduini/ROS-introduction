@@ -2,7 +2,7 @@
 
 This is a repository used in my graduation thesys.
 
-It implements a small proof of concept to introduce some concepts of the Robotic Operational System and provides a basic introductory implementation for people interested in learning about this OS.
+It implements a small proof of concept to introduce some concepts of the Robotic Operational System and provides a basic introductory implementation for people interested in learning about this framework.
 
 # Running
 
