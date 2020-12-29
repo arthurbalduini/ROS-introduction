@@ -4,6 +4,12 @@ This is a repository used in my graduation thesys.
 
 It implements a small proof of concept to introduce some concepts of the Robotic Operational System and provides a basic introductory implementation for people interested in learning about this framework.
 
+The project was created based on an environment created with the command:
+```
+~$ catkin_make
+```
+Which install multiple dependencies needed for the project.
+
 # Running
 
 Initialize ROS: 
