@@ -13,7 +13,8 @@ Which install multiple dependencies needed for the project.
 As it is implemented using Python, some libs are also necessary to run the project. Also, the ROS version used in this project is melodic, so make sure you search for the melodic version of these packages:
 
 [ros_comm](https://github.com/ros/ros_comm);
-[std_msgs](https://github.com/ros/std_msgs)
+
+[std_msgs](https://github.com/ros/std_msgs).
 
 
 # Running
